@@ -1,2 +1,2 @@
 # Never-Stop
-A game in which player never stops the ball and moves it in various planes
+A game in which player is penalised for making the ball stay within one plane and moves it among various planes collecting points . 
